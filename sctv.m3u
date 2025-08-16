@@ -2,15 +2,21 @@
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi",SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/SCTV3_See_TV.png/revision/latest?cb=20210819101412&path-prefix=vi",SCTV3 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi",SCTV2 HD
+https://liveh12.seenow.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/SCTV3_See_TV.png/revision/latest?cb=20210819101412&path-prefix=vi",SCTV3
 https://liveh12.seenow.vn/hls/SCTV3/03.m3u8
-#EXTINF:-1 tvg-id="sctv4hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/SCTV4.png/revision/latest?cb=20240116011558&path-prefix=vi",SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/SCTV4.png/revision/latest?cb=20240116011558&path-prefix=vi",SCTV4
 https://liveh12.seenow.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/SCTV7_logo_2017.png/revision/latest?cb=20210819102155&path-prefix=vi",SCTV7 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/SCTV7_logo_2017.png/revision/latest?cb=20210819102155&path-prefix=vi",SCTV6
+https://liveh12.seenow.vn/hls/SCTV6/03.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/SCTV7_logo_2017.png/revision/latest?cb=20210819102155&path-prefix=vi",SCTV7
 https://liveh12.seenow.vn/hls/SCTV7/03.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/SCTV8.png/revision/latest?cb=20210819103024&path-prefix=vi",SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/SCTV8.png/revision/latest?cb=20210819103024&path-prefix=vi",SCTV8
 https://liveh12.seenow.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi",SCTV11 HD 
+#EXTINF:-1 tvg-id="sctv10" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/SCTV7_logo_2017.png/revision/latest?cb=20210819102155&path-prefix=vi",SCTV10
+https://liveh12.seenow.vn/hls/SCTV10/03.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi",SCTV11 HD
 https://liveh12.seenow.vn/hls/SCTV11/03.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/SCTV12_logo_2022.png/revision/latest?cb=20220428035227&path-prefix=vi",SCTV12 HD
 https://liveh12.seenow.vn/hls/SCTV12/03.m3u8
@@ -24,6 +30,7 @@ https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv4k/KenhBoSung",SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+
 
 
 
