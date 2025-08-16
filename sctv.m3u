@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV1_logo_2022.png/revision/latest?cb=20220427230925&path-prefix=vi",SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="Kênh SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/SCTV3_See_TV.png/revision/latest?cb=20210819101412&path-prefix=vi",SCTV3 HD
@@ -22,6 +24,7 @@ https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" group-title="Kênh SCTV" tvg-logo="https://xem.hoiquan.click/Logo/sctv4k/KenhBoSung",SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+
 
 
 
