@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
+# List toàn Đài Truyền hình Việt Nam 
+
+#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0d/VTV1_logo_%282013-nay%29.png/revision/latest?cb=20201228131259&path-prefix=vi",VTV1 HD
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/VTV2_logo_%282013-nay%29.png/revision/latest?cb=20201228131322&path-prefix=vi",VTV2 HD
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/VTV3_logo_%282013-nay%29.png/revision/latest?cb=20201228131947&path-prefix=vi",VTV3 HD
+https://xem.hoiquan.Click/CoBan/vtv3-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="vtv4-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/VTV4_logo_%282013-nay%29.png/revision/latest?cb=20201228131234&path-prefix=vi",VTV4 HD
+https:/live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv-can-tho" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/VTV_C%E1%BA%A7n_Th%C6%A1_logo_%282022-nay%29.png/revision/latest?cb=20221009182058&path-prefix=vi",VTV Cần Thơ HD
+https:/live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VTV7_logo_%282016-nay%29.png/revision/latest?cb=20200608143129&path-prefix=vi",VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv8-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/VTV8_logo_%282016-nay%29.png/revision/latest?cb=20201228131926&path-prefix=vi",VTV8 HD
+https:/live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv9-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/VTV9_logo_%282013-nay%29.png/revision/latest?cb=20201228131939&path-prefix=vi",VTV9 HD
+https:/live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u85000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5-hd" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_logo_%282013-nay%29_%282%29.png/revision/latest?cb=20241118095507&path-prefix=vi",VTV5 HD
+https:/live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5-tay-nguyen" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi",VTV5 Tây Nguyên
+https:/live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5-tay-nam-bo" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/01/VTV5_T%C3%A2y_Nam_B%E1%BB%99_logo.png/revision/latest?cb=20220530124513&path-prefix=vi",VTV5 Tây Nam Bộ
+https:/live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Kênh VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/Vietnam_Today_v2.png/revision/latest?cb=20250813040753&path-prefix=vi",Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
